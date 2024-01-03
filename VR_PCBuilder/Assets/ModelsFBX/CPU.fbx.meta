@@ -1,19 +1,9 @@
 fileFormatVersion: 2
-guid: fe5c05984866abf4989725c6cd1485a2
+guid: 2e15dc4c05a410144ae30e0b6caf2949
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
   externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: DarkPlastik
-    second: {fileID: 2100000, guid: b63ae8a26b7d0ff4184bca6ea2a26950, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: GreyPlastik
-    second: {fileID: 2100000, guid: ba766c88de35a8c4ba539abc92ccb259, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -22,13 +12,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: MetalCooling
-    second: {fileID: 2100000, guid: 01f3818729b254a4c92ebcccf6d6b083, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: PCB
-    second: {fileID: 2100000, guid: 95c7251ffb079ca4f9bb1096dc46b72a, type: 2}
+      name: PCBGreen
+    second: {fileID: 2100000, guid: dbed727340b996c409071c242f942d5b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
