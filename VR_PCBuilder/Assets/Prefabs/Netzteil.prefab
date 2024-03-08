@@ -122,6 +122,14 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 6422869212818219696}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 23041ae100f557b4db6e3448f7900783,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5223459480093522308}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 23041ae100f557b4db6e3448f7900783,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -6328556644634377854}
   m_SourcePrefab: {fileID: 100100000, guid: 23041ae100f557b4db6e3448f7900783, type: 3}
 --- !u!1 &7111807285686642198 stripped
 GameObject:
@@ -375,6 +383,37 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
+--- !u!114 &5223459480093522308
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7111807285686642198}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!114 &-6328556644634377854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7111807285686642198}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: fb52a285900f994469baec49c5770b40, type: 2}
 --- !u!4 &7636389348783652012 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 23041ae100f557b4db6e3448f7900783,

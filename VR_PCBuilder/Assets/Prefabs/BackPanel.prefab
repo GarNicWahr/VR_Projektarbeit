@@ -79,6 +79,14 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 7589951155746042416}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 0ca4885923a27824d887f64f6711df21,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -5938755348837667434}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 0ca4885923a27824d887f64f6711df21,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -1921269220458246364}
   m_SourcePrefab: {fileID: 100100000, guid: 0ca4885923a27824d887f64f6711df21, type: 3}
 --- !u!1 &8603433388345471228 stripped
 GameObject:
@@ -282,3 +290,34 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
+--- !u!114 &-5938755348837667434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8603433388345471228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!114 &-1921269220458246364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8603433388345471228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: fb52a285900f994469baec49c5770b40, type: 2}
