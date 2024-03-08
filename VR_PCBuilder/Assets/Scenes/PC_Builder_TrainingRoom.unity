@@ -3252,8 +3252,7 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"graphicCard","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"cabeling","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"pcBooting","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"objectZone","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!4 &563809222
 Transform:
@@ -12518,6 +12517,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1470899997}
     m_Modifications:
+    - target: {fileID: 3424365158161432814, guid: c3652a075b34d254ba2bf120605a07ce,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4387799700985746647, guid: c3652a075b34d254ba2bf120605a07ce,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6755758646123919945, guid: c3652a075b34d254ba2bf120605a07ce,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7183037146187661898, guid: c3652a075b34d254ba2bf120605a07ce,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7342450559469592115, guid: c3652a075b34d254ba2bf120605a07ce,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -12568,10 +12587,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7630018131824659388, guid: c3652a075b34d254ba2bf120605a07ce,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7773908282652001659, guid: c3652a075b34d254ba2bf120605a07ce,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7975399183739634825, guid: c3652a075b34d254ba2bf120605a07ce,
         type: 3}
       propertyPath: m_Name
       value: Blidschirm 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7975399183739634825, guid: c3652a075b34d254ba2bf120605a07ce,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8423636743298825182, guid: c3652a075b34d254ba2bf120605a07ce,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8728278777234197994, guid: c3652a075b34d254ba2bf120605a07ce,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13152,6 +13196,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Tisch
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603459841622546194, guid: c1631a5ed0528bb4eb6ee21317557fbe,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
