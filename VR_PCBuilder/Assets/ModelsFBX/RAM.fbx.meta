@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: DarkPlastik
-    second: {fileID: 2100000, guid: 5ebadfa9378d80a4d9ea6f311d5a3430, type: 2}
+    second: {fileID: 2100000, guid: b63ae8a26b7d0ff4184bca6ea2a26950, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
