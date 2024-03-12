@@ -3,32 +3,7 @@ guid: 23041ae100f557b4db6e3448f7900783
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: BrightPlastik
-    second: {fileID: 2100000, guid: d062c3d99af77194a8a8f90ef306b71e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: DarkPlastik
-    second: {fileID: 2100000, guid: c119a829797a936448dc07613f5b6d1c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: LightMetalCooling.1
-    second: {fileID: 2100000, guid: 8d70790f31d879747876ce697f52b114, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MetalCooling
-    second: {fileID: 2100000, guid: e4dda43db5a22bc468f9f80c504253df, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: VentiMetall
-    second: {fileID: 2100000, guid: 487a8a4e885534047b4d99f74cee8fb1, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

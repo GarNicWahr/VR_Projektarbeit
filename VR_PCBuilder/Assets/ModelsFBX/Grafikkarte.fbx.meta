@@ -3,32 +3,7 @@ guid: 089c3bd6555277a40acc79b0ec4c77d7
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MetalBright.2
-    second: {fileID: 2100000, guid: ffea8265c25f9a546b0f76fd9e4e8d20, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MetalBright.3
-    second: {fileID: 2100000, guid: 7083044e26d828b4ebaf17ff10d9409f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MetalCooling
-    second: {fileID: 2100000, guid: 8ddfbcd7395862d4ca3dfab1c9799f85, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: VentiMetall
-    second: {fileID: 2100000, guid: 939cfa48f01091942a015b2bd620773e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: YellowBright
-    second: {fileID: 2100000, guid: 28492401b038e9b419025887a639c035, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
