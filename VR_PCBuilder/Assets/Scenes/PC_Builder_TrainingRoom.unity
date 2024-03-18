@@ -2683,7 +2683,7 @@ SphereCollider:
     m_Bits: 128
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 119
+    m_Bits: 4023
   m_LayerOverridePriority: 0
   m_IsTrigger: 1
   m_ProvidesContacts: 0
@@ -4808,10 +4808,10 @@ BoxCollider:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 512
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 3575
   m_LayerOverridePriority: 0
   m_IsTrigger: 1
   m_ProvidesContacts: 0
@@ -6673,10 +6673,10 @@ BoxCollider:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 1024
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 3063
   m_LayerOverridePriority: 0
   m_IsTrigger: 1
   m_ProvidesContacts: 0
@@ -10443,10 +10443,10 @@ BoxCollider:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 1024
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 3063
   m_LayerOverridePriority: 0
   m_IsTrigger: 1
   m_ProvidesContacts: 0
@@ -10470,10 +10470,10 @@ BoxCollider:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 3831
   m_LayerOverridePriority: 0
   m_IsTrigger: 1
   m_ProvidesContacts: 0
@@ -13016,10 +13016,10 @@ BoxCollider:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 1024
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 3063
   m_LayerOverridePriority: 0
   m_IsTrigger: 1
   m_ProvidesContacts: 0
@@ -13493,10 +13493,10 @@ BoxCollider:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 1024
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 3063
   m_LayerOverridePriority: 0
   m_IsTrigger: 1
   m_ProvidesContacts: 0
@@ -13575,10 +13575,10 @@ BoxCollider:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 3831
   m_LayerOverridePriority: 0
   m_IsTrigger: 1
   m_ProvidesContacts: 0
@@ -14049,10 +14049,20 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -0.1328
       objectReference: {fileID: 0}
+    - target: {fileID: 654237508944640273, guid: 02050fd0fd509b244bf9820dd1a43ff0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0072
+      objectReference: {fileID: 0}
     - target: {fileID: 1019582251948937150, guid: 02050fd0fd509b244bf9820dd1a43ff0,
         type: 3}
       propertyPath: m_Radius
       value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1019582251948937150, guid: 02050fd0fd509b244bf9820dd1a43ff0,
+        type: 3}
+      propertyPath: m_ExcludeLayers.m_Bits
+      value: 3959
       objectReference: {fileID: 0}
     - target: {fileID: 1199465961324344713, guid: 02050fd0fd509b244bf9820dd1a43ff0,
         type: 3}
@@ -14123,6 +14133,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ' Socket M2 oben'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5535853245899439972, guid: 02050fd0fd509b244bf9820dd1a43ff0,
+        type: 3}
+      propertyPath: m_ExcludeLayers.m_Bits
+      value: 4023
       objectReference: {fileID: 0}
     - target: {fileID: 6370835802812412055, guid: 02050fd0fd509b244bf9820dd1a43ff0,
         type: 3}
