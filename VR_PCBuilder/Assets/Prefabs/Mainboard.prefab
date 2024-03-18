@@ -697,7 +697,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3060312970800396259}
-  - component: {fileID: 5535853245899439972}
   - component: {fileID: 235668501332758564}
   m_Layer: 0
   m_Name: ' Socket CPU'
@@ -722,27 +721,6 @@ Transform:
   - {fileID: 8360749642453632532}
   m_Father: {fileID: 1199465961324344713}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
---- !u!135 &5535853245899439972
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7191458038157304197}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 64
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 55
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 1
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Radius: 0.04
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &235668501332758564
 MonoBehaviour:
   m_ObjectHideFlags: 0
