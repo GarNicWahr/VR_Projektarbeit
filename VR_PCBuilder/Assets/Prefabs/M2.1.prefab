@@ -8,21 +8,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1484979865903579819, guid: acfeadeb811796d42a445d63f2a1fb20,
-        type: 3}
-      propertyPath: m_MovementType
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1484979865903579819, guid: acfeadeb811796d42a445d63f2a1fb20,
-        type: 3}
-      propertyPath: m_SmoothPosition
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1484979865903579819, guid: acfeadeb811796d42a445d63f2a1fb20,
-        type: 3}
-      propertyPath: m_SmoothRotation
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c7d70cd66c6988844b1d7ac370e636de,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -77,6 +62,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: M2.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c7d70cd66c6988844b1d7ac370e636de,
+        type: 3}
+      propertyPath: m_TagString
+      value: M2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1484979865903579819, guid: acfeadeb811796d42a445d63f2a1fb20,
+        type: 3}
+      propertyPath: m_MovementType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1484979865903579819, guid: acfeadeb811796d42a445d63f2a1fb20,
+        type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1484979865903579819, guid: acfeadeb811796d42a445d63f2a1fb20,
+        type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

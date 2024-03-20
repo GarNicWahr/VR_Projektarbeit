@@ -6,6 +6,13 @@ TagManager:
   tags:
   - Mainboard
   - ResetArea
+  - CPU
+  - M2
+  - HDD
+  - RAM
+  - CPUCooler
+  - PowerSupply
+  - GraphicsCard
   layers:
   - Default
   - TransparentFX
