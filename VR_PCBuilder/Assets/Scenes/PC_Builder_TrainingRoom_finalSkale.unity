@@ -458,12 +458,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &204623850 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4603459841622546194, guid: c1631a5ed0528bb4eb6ee21317557fbe,
-    type: 3}
-  m_PrefabInstance: {fileID: 7275785077868203227}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &262704149
 GameObject:
   m_ObjectHideFlags: 0
@@ -12052,28 +12046,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 7275785077868203227}
   m_PrefabAsset: {fileID: 0}
---- !u!64 &2144595981
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 204623850}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -4646354995659933892, guid: eb4efb0857d1fce418e28ee0d4f0d5af, type: 3}
 --- !u!1001 &674648593546556373
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13410,34 +13382,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tisch
       objectReference: {fileID: 0}
-    - target: {fileID: 4603459841622546194, guid: c1631a5ed0528bb4eb6ee21317557fbe,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: 6343574458844023232, guid: c1631a5ed0528bb4eb6ee21317557fbe,
-        type: 3}
-      propertyPath: m_Size.y
-      value: 0.055630505
-      objectReference: {fileID: 0}
-    - target: {fileID: 6343574458844023232, guid: c1631a5ed0528bb4eb6ee21317557fbe,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6343574458844023232, guid: c1631a5ed0528bb4eb6ee21317557fbe,
-        type: 3}
-      propertyPath: m_Center.y
-      value: 0.77621865
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 4603459841622546194, guid: c1631a5ed0528bb4eb6ee21317557fbe,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2144595981}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1631a5ed0528bb4eb6ee21317557fbe, type: 3}
 --- !u!1001 &7602546086797737646
 PrefabInstance:
@@ -13475,7 +13423,7 @@ PrefabInstance:
     - target: {fileID: 6521166325717659278, guid: a211496a006249a44a761a928cef0a7a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.354
+      value: 1.179
       objectReference: {fileID: 0}
     - target: {fileID: 6521166325717659278, guid: a211496a006249a44a761a928cef0a7a,
         type: 3}
@@ -13485,7 +13433,7 @@ PrefabInstance:
     - target: {fileID: 6521166325717659278, guid: a211496a006249a44a761a928cef0a7a,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.035
+      value: 0.995
       objectReference: {fileID: 0}
     - target: {fileID: 6521166325717659278, guid: a211496a006249a44a761a928cef0a7a,
         type: 3}
