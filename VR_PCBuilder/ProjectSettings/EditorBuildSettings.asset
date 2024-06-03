@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PC_Builder_TrainingRoom.unity
     guid: f8c63a9013bc25c4494d42c67eca6405
+  - enabled: 1
+    path: Assets/Scenes/PC_Builder_ExamRoom.unity
+    guid: e6a93ce63a5829d40a513e7f58f15813
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
       type: 2}
