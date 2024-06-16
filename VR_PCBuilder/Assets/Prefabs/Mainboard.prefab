@@ -108,8 +108,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.15049346, y: 0.046558615, z: 0.008577101}
-  m_Center: {x: -0.010999999, y: 0.023803933, z: 0.009824238}
+  m_Size: {x: 0.15049346, y: 0.046558615, z: 0.007304555}
+  m_Center: {x: -0.011000001, y: 0.023803908, z: 0.009824959}
 --- !u!1 &1134025769566238811
 GameObject:
   m_ObjectHideFlags: 0
@@ -829,8 +829,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.15049346, y: 0.046763808, z: 0.008577107}
-  m_Center: {x: -0.011, y: 0.023701346, z: 0.009824244}
+  m_Size: {x: 0.15049346, y: 0.046763804, z: 0.00687782}
+  m_Center: {x: -0.011000001, y: 0.023701333, z: 0.009826475}
 --- !u!1 &7191458038157304197
 GameObject:
   m_ObjectHideFlags: 0
@@ -1190,8 +1190,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.010299017, y: 0.047135666, z: 0.10954294}
-  m_Center: {x: 0.00071213115, y: 0.012003264, z: -0.0005322892}
+  m_Size: {x: 0.010299017, y: 0.040973853, z: 0.10954294}
+  m_Center: {x: 0.0007121311, y: 0.015084132, z: -0.00053228874}
 --- !u!1 &8964696910481439350
 GameObject:
   m_ObjectHideFlags: 0
@@ -1300,8 +1300,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.15049346, y: 0.047168184, z: 0.008577111}
-  m_Center: {x: -0.010999999, y: 0.023499142, z: 0.0098242415}
+  m_Size: {x: 0.15049346, y: 0.04716818, z: 0.0070910696}
+  m_Center: {x: -0.011000001, y: 0.023499135, z: 0.010143505}
 --- !u!1 &9219430672710560081
 GameObject:
   m_ObjectHideFlags: 0
@@ -1441,8 +1441,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.15049346, y: 0.04656215, z: 0.008577104}
-  m_Center: {x: -0.011, y: 0.02380216, z: 0.009824242}
+  m_Size: {x: 0.15049346, y: 0.04656215, z: 0.007097226}
+  m_Center: {x: -0.011000001, y: 0.023802154, z: 0.009928581}
 --- !u!1001 &1670803106395689570
 PrefabInstance:
   m_ObjectHideFlags: 0
